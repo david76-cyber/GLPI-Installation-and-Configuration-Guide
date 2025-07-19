@@ -86,12 +86,12 @@ Apache errors: Run sudo apachectl configtest and inspect /var/log/apache2/error.
 
 Database errors: Verify user credentials and database privileges.
 
-References
-GLPI Official Website
+## References
 
-GLPI Documentation
+- [GLPI Official Website](https://glpi-project.org/)
+- [GLPI Documentation](https://glpi-project.org/documentation/)
+- [GLPI GitHub Releases](https://github.com/glpi-project/glpi/releases)
 
-GLPI GitHub Releases
 
 
 
